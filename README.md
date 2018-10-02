@@ -1,4 +1,4 @@
-# steam-web
+# steam-web-promise
 
 ## [Full Documentation on GH Pages](http://tidwell.github.io/nodeSteam/)
 
@@ -11,7 +11,7 @@ This implementation is not supported, endorsed, or created by Valve - I'm just a
 ## Installation
 
 ```bash
-$ npm install steam-web
+$ npm install steam-web-promise
 ```
 
 ### Methods

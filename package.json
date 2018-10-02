@@ -1,23 +1,23 @@
 {
-  "name": "steam-web",
-  "version": "0.7.0",
+  "name": "steam-web-promise",
+  "version": "0.8.0",
   "description": "A wrapper for the Steam Web API.",
   "keywords": [
     "steam",
     "team fortress 2"
   ],
-  "author": "Aaron Tidwell <aaron.tidwell@gmail.com>",
+  "author": "Paul Roman <paul.roman@epitech.eu>",
   "main": "./lib/steam",
   "repository": {
     "type": "git",
-    "url": "http://github.com/Tidwell/nodeSteam"
+    "url": "http://github.com/paul-roman/steam-web-promise"
   },
   "dependencies": {
     "qs": "^6.1.0"
   },
-  "engines": [
-    "node >= 0.4.0"
-  ],
+  "engines": {
+    "node": ">=0.4.0"
+  },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha \"./test/**/*.spec.js\" --timeout 20000",
 
